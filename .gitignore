@@ -10,3 +10,4 @@ compiled/
 ## API keys ##
 src/config/youtube.js
 compiled/config/youtube.js
+lib/config/youtube.js
