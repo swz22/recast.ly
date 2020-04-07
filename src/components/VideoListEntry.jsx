@@ -1,5 +1,5 @@
 var VideoListEntry = (props) => (
-  <div className="video-list-entry media">
+  <div className="video-list-entry media" onClick={() => props.DisplayVideoOnClick(props.video)}>
     <div className="media-left media-middle">
       <img
         className="media-object"
